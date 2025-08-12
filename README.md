@@ -8,7 +8,8 @@ First, run the development server:
 npm run dev
 ```
 
-https://github.com/user-attachments/assets/90715d10-9088-4ec1-bedc-edc147d6a1d0
+https://github.com/user-attachments/assets/36980d34-8edb-4fd0-b4e3-d5c10add8e32
+
 <img width="1692" height="1030" alt="image" src="https://github.com/user-attachments/assets/0a118159-3f3d-41d2-a7a8-7d3f7bd24c14" />
 <img width="1916" height="1036" alt="image" src="https://github.com/user-attachments/assets/fe0a78af-adc6-4c74-ac17-c621b64abdc3" />
 <img width="1916" height="1030" alt="image" src="https://github.com/user-attachments/assets/19487043-74b8-4e67-b543-1538e9ed0854" />
